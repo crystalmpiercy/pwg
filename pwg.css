@@ -113,7 +113,7 @@ input, textarea { display: block;
 		  border-style: none; }
 	nav ul { padding: 0;
 	       margin: 0; }
-	#heroroad, #heromugs, #heroguitar, #herojobs { margin: 0; padding: 0; }
+	#grace { margin: 0; padding: 0; }
 	main { padding: 0;
 	      margin: 0;
 		  font-size: 90%; }
@@ -134,7 +134,7 @@ input, textarea { display: block;
 	h2 { padding: 0.5em 0 0 0.5em;
 	    margin-right: 0.5em; }
 	.details { padding-left: 0; padding-right: 0; }
-	#heroroad, #heromugs, #heroguitar, #herojobs { background-image: none; height: auto; } 
+	#grace { background-image: none; height: auto; } 
 	.floatleft { padding-left: 0.5em; padding-right: 0.5em; }
 	#mobile { display: inline; }
 	#desktop { display: none; }
