@@ -65,8 +65,8 @@ h4 { background-color: #00ffff;
 		  overflow: auto;
 }
 .floatleft { float: left;
-             padding-right: 20px;
-			 padding-bottom: 20px; 
+             padding-right: 5px;
+			 padding-bottom: 5px; 
 }
 img { padding-left: 10px;
      padding-right: 10px;
