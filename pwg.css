@@ -15,7 +15,7 @@ body { background-color: #ccffff;
     }
 header { background-color: #99e6e6;
 		height: 250px;
-       background-image: pwglogo.jpg;
+       background-image: url(pwglogo.jpg);
        background-repeat: no-repeat;
 }
 h1 { padding-top: 45px;
